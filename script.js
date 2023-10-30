@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
             projectItem.innerHTML = `
                 <div class="projdetail">
                     <span>Member: <span>${memberName}</span></span>
-                    <span>Title:<span>${projectTitle}</span></span>
+                    <span>Title: <span>${projectTitle}</span></span>
                     <span>Objective: <span>${projectDescription}</span></span>
                 </div>
                 <div class="projsetting">
